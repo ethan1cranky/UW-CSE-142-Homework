@@ -3,9 +3,9 @@
 Git repository to store my University of Washington CSE 142 Homework solutions.
 
 ## Solutions
-||||
-|:------:|:-------:|:------:|
+
 |[Homework 1 - Song](src/Song.java)|[Homework 2 - Rocket Ship](src/DrawRocket.java)|[Homework 3 - Cafe Wall](src/CafeWall.java)|
+|:------:|:-------:|:------:|
 |[Homework 4 - Admissions](src/Admit.java)|[Homwork 5 - Guessing Game](src/Guess.java)|[Homework 6 - Baby Names](src/Names.java)|
 |[Homework 7 - Personality Test](src/Personality.java)|[Homework 8 - GeoLocation](GeoLocator/src)|[Homework 9 - Critters](Critters/src)|
 
