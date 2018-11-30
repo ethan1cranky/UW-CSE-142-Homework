@@ -1,4 +1,4 @@
-# UW CSE 142 Homework
+# UW CSE 142 Homeworks
 
 Git repository to store my University of Washington CSE 142 Homework solutions.
 
